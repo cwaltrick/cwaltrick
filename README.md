@@ -1,4 +1,4 @@
-<h1 align='center'> Olá, seja bem vindo! :wave:</h1>
+<h1 align='center'> Olá, seja bem vinda(o)! :wave:</h1>
 <p align='center'>
 Sou cientista de dados e, há 4 anos, eu ajudo companhias a tomarem melhores decisões data-driven. Aqui, você vai encontrar alguns códigos que desenvolvi ao longo da minha jornada de pesquisa. Se tratam de exemplos fictícios de problemas de negócio que podemos solucionar com ciência de dados. Logo abaixo, vc encontrará os meus repositórios separados por metodologia, não deixe de conferir!
 </p>
